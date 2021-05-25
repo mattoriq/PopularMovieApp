@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="released_on">Release Date: %s</string>
+    <string name="image_link">https://image.tmdb.org/t/p/w500%s</string>
+    <string name="poster">poster</string>
+    <string name="movie_title">movie title</string>
+    <string name="movie_detail">movie details</string>
+    <string name="movie_release_date">Release date</string>
+</resources>

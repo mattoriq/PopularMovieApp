@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Popular Movie App</string>
+    <string name="profile_image">profile image</string>
+    <string name="poster">poster</string>
+    <string name="movie_title">movie title</string>
+    <string name="movie_detail">movie details</string>
+    <string name="movie_release_date">Release date</string>
+    <string name="rating">Rating: %s</string>
+    <string name="overview">Overview</string>
+    <string name="splash_screen_icon">Splash Screen for Movie Catalogue app</string>
+    <string name="released_on">Release Date: %s</string>
+    <string name="image_link">https://image.tmdb.org/t/p/w500%s</string>
+    <string name="favorite">favorite button</string>
+    <string name="fav_movie">Favorite Movies</string>
+    <string name="voter_count">%s Voters</string>
+    <string name="faving_movie">Adding Movie to Favorite…</string>
+    <string name="unfaving_movie">Removing Movie from Favorite…</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
